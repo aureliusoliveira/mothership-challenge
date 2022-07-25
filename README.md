@@ -1,4 +1,5 @@
-![Me leva!](https://www.npr.org/sections/13.7/2013/11/27/247220595/probing-extraterrestrial-abduction)
+![28503069648_20636e4bb3_c](https://user-images.githubusercontent.com/40000651/180700190-d62ef2a0-3061-4768-90b3-1edbeea3571f.jpg)
+
 # mothership-challenge
 Desafio técnico proposto pela potencial futura "Nave Mãe".
 
