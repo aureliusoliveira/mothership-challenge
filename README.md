@@ -73,4 +73,8 @@ Miyamoto Musashi. Japanese martial artist, philosopher, strategist, writer, arti
 
 がんばろう
 
+"Se impulsiona na direção de sua meta, ainda que sob certas condições excepcionais; produz sua matéria com base naquilo que lhe faz oposição, assim como o fogo quando se apodera do que nele é lançado."
+
+Marcus Aurelius. Imperador romano (121-180).
+
 
