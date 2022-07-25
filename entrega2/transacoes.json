@@ -1,0 +1,8 @@
+
+{
+	"transacoes" : [{"transacao_id": 1, "total_bruto": 3000, "desconto_percentual": 6.99},
+	              	{"transacao_id": 2, "total_bruto": 57989, "desconto_percentual": 1.45},
+	                {"transacao_id": 4, "total_bruto": 1, "desconto_percentual": null},
+					{"transacao_id": 5, "total_bruto": 34, "desconto_percentual": 0.0}
+                 ]
+}
