@@ -12,6 +12,6 @@ __Obs.__: Testes deverão ser realizados criando-se um <code><script_teste>.py</
 Sou viciado em Python _one-liners_. Sei que nem sempre é possível obter código enxuto e limpo, mas após algumas horas de pesquisa cheguei neste [artigo](https://stackoverflow.com/questions/38231591/split-explode-a-column-of-dictionaries-into-separate-columns-with-pandas "Split / Explode a column of dictionaries into separate columns with pandas") no [StackOverflow](https://stackoverflow.com/). A solução veio de fato após um entendimento mais apurado do método [<code>pandas.json_normalize</code>](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.json_normalize.html). 
 
 ### E se eu tivesse mais tempo?
-* Disponibilizaria o pacote __entrega3__ como um bibliotenca utilizando setuptools, egg ou wheel. Algo que pudesse ser feito com <code>pip install -e .</code>, ou seja, uma biblioteca que pudesse ser instalada num ambiente virtual ou no ambiente de desenvolvimento.
+* Disponibilizaria o pacote __entrega3__ como um bibliotenca utilizando setuptools, egg ou wheel. Algo que pudesse ser instalado com <code>pip install -e .</code>, ou seja, uma biblioteca que pudesse ser instalada num ambiente virtual ou no ambiente de desenvolvimento.
 * Implementação da leitura do JSON a partir da URL.
 * Desenvolveria um pacote centralizador de funções de uso geral. Dessa forma, eu poderia reaproveitar código e funções em outras aplicações.
