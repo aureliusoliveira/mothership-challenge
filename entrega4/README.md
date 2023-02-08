@@ -17,5 +17,5 @@ Falando um pouco mais sobre o BigTable, penso neste NoSQL-database recebendo os 
 ### E se eu tivesse mais tempo?
 * Construiria um sandbox na camada gratuita para testar tudo isso que pensei. :P
 * Estudaria a viabilidade de utilização de outras ferramentas especializadas como Dataprep e Workflows.
-* Levantaria questões a cerca da proteção e manipulação de dados eventualmente sensíveis (o número de uma nota fiscal, pode estar relacionado ao CPF de um cliente).
+* Levantaria questões a cerca da proteção e manipulação de dados eventualmente sensíveis (o número de uma nota fiscal pode estar relacionado ao CPF de um cliente).
 * Estimaria custos e compararia valores de diferentes arquiteturas.
